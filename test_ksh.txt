@@ -1,0 +1,5 @@
+#!/bin/ksh
+
+echo "test ksh script"
+
+
